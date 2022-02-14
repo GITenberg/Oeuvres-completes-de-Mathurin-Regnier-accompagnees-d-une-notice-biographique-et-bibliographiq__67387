@@ -1,0 +1,32 @@
+_repo: Oeuvres-completes-de-Mathurin-Regnier-accompagnees-d-une-notice-biographique-et-bibliographiq__67387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Regnier, Mathurin
+    gutenberg_agent_id: '54244'
+    url: http://www.gutenberg.org/2009/agents/54244
+  editor:
+    agent_name: Courbet, Ernest
+    gutenberg_agent_id: '54245'
+    url: http://www.gutenberg.org/2009/agents/54245
+description: ''
+gutenberg_issued: '2022-02-12'
+identifiers:
+  gutenberg: '67387'
+language: fr
+pgterms:marc904: https://archive.org/details/oeuvrescomplt00rg
+pgterms:marc905: 20130128131205regnier
+pgterms:marc906: '1875'
+pgterms:marc907: FR
+production_note: Clarity and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: France :Alphonse Lemerre,1875.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Oeuvres complètes de Mathurin Regnier: accompagnées d''une notice biographique
+  et bibliographique, de variantes, de notes, d''un glossaire et d''un index'
+url: http://www.gutenberg.org/ebooks/67387
