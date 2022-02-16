@@ -1,5 +1,8 @@
 _repo: Oeuvres-completes-de-Mathurin-Regnier-accompagnees-d-une-notice-biographique-et-bibliographiq__67387
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67387-h/images/cover.jpg
 creator:
   author:
     agent_name: Regnier, Mathurin
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '54245'
     url: http://www.gutenberg.org/2009/agents/54245
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67387#Oeuvres-completes-de-Mathurin-Regnier-accompagnees-d-une-notice-biographique-et-bibliographiq_
 gutenberg_issued: '2022-02-12'
 identifiers:
   gutenberg: '67387'
